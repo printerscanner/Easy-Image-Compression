@@ -7,12 +7,12 @@ Simply clone the repo, move the images into the project folder and run the pytho
 Type, it in, press enter, and you're done.
 
 ```
-    $ gh repo clone printerscanner/Easy-Image-Compression
-    $ python app.py
+$ gh repo clone printerscanner/Easy-Image-Compression
+$ python app.py
 ```
 
 Or, you can add an alias to your .bash_profile or .zshrc like the one below, and type resize in the terminal of whatever folder you are in.
 
 ```
-    $ alias resize='python ~/PATH_TO_YOUR_APP/app.py'
+$ alias resize='python ~/PATH_TO_YOUR_APP/app.py'
 ```
