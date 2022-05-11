@@ -1,6 +1,6 @@
 # Easy Image Compression
 
-Compressing and renaming images shouldn't take forever. This is a simple script that imports all images in a folder, resizes, compresses and renames them. Simply input the name you want to give the files.
+Compressing and renaming images shouldn't take forever. This is a simple script that imports all images in a folder, resizes, compresses and renames them. Simply input the name you want to rename the files.
 
 ## Usage
 Simply clone the repo, move the images into the project folder and run the python file. The program will prompt you to ask what you would like to rename your images to.
