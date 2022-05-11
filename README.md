@@ -16,3 +16,8 @@ You can add an alias to your .bash_profile or .zshrc like the one below, and typ
 ```
 alias resize='python ~/PATH_TO_YOUR_APP/app.py'
 ```
+## Contributing
+If you'd like to contribute to this repository feel free to fork/submit a pull request, and if you have any suggestions feel free to email me at abbeyyacoe@gmail.com.
+
+## License
+The theme is available as open source under the terms of the MIT License.
