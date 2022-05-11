@@ -11,7 +11,7 @@ gh repo clone printerscanner/Easy-Image-Compression
 python app.py
 ```
 
-Or, you can add an alias to your .bash_profile or .zshrc like the one below, and type resize in the terminal of whatever folder you are in.
+You can add an alias to your .bash_profile or .zshrc like the one below, and type `resize` in the terminal of whatever folder you are in.
 
 ```
 alias resize='python ~/PATH_TO_YOUR_APP/app.py'
