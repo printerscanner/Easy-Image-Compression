@@ -7,7 +7,7 @@ Simply clone the repo, move the images into the project folder and run the pytho
 Type, it in, press enter, and you're done.
 
 ```
-gh repo clone printerscanner/Easy-Image-Compression
+gh repo clone printerscanner/easy-image-compression
 python app.py
 ```
 

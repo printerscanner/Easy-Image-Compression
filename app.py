@@ -18,7 +18,6 @@ def resize_images(file_list, rename):
         number += 1
         suffix = i[-4:]
 
-
         try:
             # Read Image
             img = cv2.imread(i)
