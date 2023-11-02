@@ -2,6 +2,14 @@
 
 Compressing and renaming images shouldn't take forever. This is a simple script that imports all images in a folder, resizes, compresses and renames them. Simply input the name you want to rename the files.
 
+## Installation
+
+This script uses open cv. You can downloaded it with pip:
+
+```
+pip install opencv-python
+```
+
 ## Usage
 Simply clone the repo, move the images into the project folder and run the python file. The program will prompt you to ask what you would like to rename your images to.
 Type, it in, press enter, and you're done.
